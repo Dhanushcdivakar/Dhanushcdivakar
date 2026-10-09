@@ -10,26 +10,25 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/dhanush-c-d-9403772a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-3B82F6?style=flat-square" alt="Full-Stack Development"/>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-64748B?style=flat-square" alt="Location"/>
-</div>
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+  Software Engineer | Full-Stack Developer | Backend Enthusiast
+</p>
+
+<p align="center">
+  A Computer Science graduate passionate about building scalable applications,
+  designing reliable backend systems, and solving real-world engineering problems.
+</p>
 
 <br/>
 
-## About Me
-
-I'm a Computer Science Engineering graduate passionate about building reliable, scalable web applications.
-
-My primary focus is full-stack development, with a growing interest in backend engineering, API design, databases, and system architecture.
-
-- Currently focused on full-stack development and backend engineering.
-- Core stack: JavaScript, React, Node.js, Express.js, and MongoDB.
-- Also working with Java, MySQL, Docker, and Flutter.
-- I enjoy understanding problems, debugging systems, and turning ideas into working software.
+- 🔭 **Currently building:** Full-stack applications and backend projects.
+- 🌱 **Currently learning:** Advanced backend development, system design, and scalable architectures.
+- 💻 **Tech I work with:** Java, JavaScript, React, Node.js, Express, MongoDB, and MySQL.
+- 🧠 **Problem solving:** 200+ LeetCode problems and counting.
+- 🚀 **My goal:** Become a strong software engineer by building, breaking, debugging, and improving real systems.
+- 🤝 **Open to:** Entry-level Software Engineer, Backend, Frontend, and Full-Stack Developer opportunities.
 
 ## Technical Skills
 
