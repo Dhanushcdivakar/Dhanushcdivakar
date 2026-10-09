@@ -165,26 +165,21 @@
 
 <h2 align="center">GitHub Activity</h2>
 
-<!-- 1. CONTRIBUTION HEATMAP -->
 <div align="center">
   <a href="https://github.com/Dhanushcdivakar">
     <img
-      src="https://ghchart.rshah.org/236B4E/Dhanushcdivakar"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanushcdivakar&bg_color=0D1117&color=C9D1D9&line=236B4E&point=236B4E&area=true&hide_border=true"
       width="100%"
-      alt="GitHub Contribution Heatmap"
+      alt="GitHub Activity Graph"
     />
   </a>
 </div>
 
 <br/>
 
-<!-- 2. ACTIVITY OVERVIEW -->
-<!-- 3. CONTRIBUTION BREAKDOWN -->
-<!-- 4. CONTRIBUTION ACTIVITY TIMELINE -->
-
 <div align="center">
-  <a href="https://github.com/Dhanushcdivakar" style="color:#236B4E;">
-    <span style="color:#236B4E;">View my complete GitHub Activity Overview →</span>
+  <a href="https://github.com/Dhanushcdivakar">
+    View my complete GitHub Activity Overview →
   </a>
 </div>
 
