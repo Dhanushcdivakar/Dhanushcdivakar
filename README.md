@@ -1,10 +1,12 @@
 <div align="center">
   <img
-    src="./assets/debugging_chronicles_animated.gif"
+    src="https://raw.githubusercontent.com/Dhanushcdivakar/Dhanushcdivakar/main/assets/debugging_chronicles_animated.gif"
     width="100%"
     alt="The Debugging Chronicles — Build. Break. Understand. Repeat."
   />
 </div>
+
+<br/>
 
 <br/>
 
