@@ -5,68 +5,46 @@
     alt="The Debugging Chronicles"
   />
 </div>
-<!-- About Me Section -->
-<!-- About Me Section -->
+<!-- ABOUT ME -->
 <h2 align="center">⚡ About Me</h2>
 
 <table>
   <tr>
-    <!-- Left Side: Coding GIF -->
-    <td width="35%" align="center" valign="middle">
-      <img
-        src="./assets/coding.gif"
-        width="100%"
-        alt="Coding animation"
-      />
-      <br/><br/>
-      <h3>BUILD. BREAK. UNDERSTAND. REPEAT.</h3>
-      <p><i>Turning ideas into reality, one commit at a time.</i></p>
+    <!-- LEFT: CODING GIF -->
+    <td width="30%" align="center" valign="middle">
+      <img src="./assets/coding.gif" width="220" alt="Coding animation"/>
+      <br/>
+      <b>BUILD. BREAK. UNDERSTAND. REPEAT.</b>
+      <br/>
+      <sub>Turning ideas into reality, one commit at a time.</sub>
     </td>
 
-    <!-- Right Side: About Me Content --->
-    <td width="65%" valign="middle">
+    <!-- RIGHT: ABOUT ME -->
+    <td width="70%" valign="middle">
 
-      <h3>👨‍💻 Full-Stack Developer | Frontend & Backend Engineering</h3>
+      <h3>👨‍💻 Full-Stack Developer</h3>
 
       <p>
-        I'm a Computer Science graduate passionate about building beautiful,
-        intuitive user interfaces and robust backend systems. I enjoy turning
-        ideas into complete, functional products—from crafting engaging
-        frontend experiences to designing reliable APIs and working with databases.
+        Computer Science graduate passionate about creating intuitive
+        user interfaces and building reliable backend systems.
+        I enjoy developing complete applications, from frontend
+        experiences to APIs and database integration.
       </p>
 
       <p>
-        💻 <b>Frontend:</b> Building responsive, interactive user interfaces
-        with React, JavaScript, and modern web technologies.
-      </p>
-
-      <p>
-        ⚙️ <b>Backend:</b> Developing REST APIs, authentication systems,
-        and server-side applications with Node.js and Express.
-      </p>
-
-      <p>
-        🗄️ <b>Databases:</b> Working with MongoDB and MySQL to design
-        and manage application data.
-      </p>
-
-      <p>
-        🧠 <b>Problem Solving:</b> Solved 200+ problems on LeetCode.
-      </p>
-
-      <p>
-        🚀 <b>Building:</b> Full-stack applications that combine thoughtful
-        UI/UX with reliable backend functionality.
-      </p>
-
-      <p>
-        🌱 <b>Currently Exploring:</b> Advanced React, state management,
-        backend architecture, and system design.
-      </p>
-
-      <p>
-        🤝 <b>Open to:</b> Frontend Engineer, Backend Engineer,
-        Full-Stack Developer, and Software Engineer opportunities.
+        🎨 <b>Frontend:</b> React, JavaScript, HTML, CSS
+        <br/><br/>
+        ⚙️ <b>Backend:</b> Node.js, Express, REST APIs, authentication
+        <br/><br/>
+        🗄️ <b>Databases:</b> MongoDB, MySQL
+        <br/><br/>
+        🧠 <b>Problem Solving:</b> 200+ LeetCode problems
+        <br/><br/>
+        🚀 <b>Currently Exploring:</b> Advanced React, state management,
+        backend architecture, and system design
+        <br/><br/>
+        🤝 <b>Open to:</b> Frontend, Backend, Full-Stack, and Software
+        Engineer opportunities
       </p>
 
     </td>
