@@ -161,47 +161,86 @@
 
 <br/>
 
-<!-- GITHUB STATISTICS -->
-<h2 align="center">📊 GitHub Statistics</h2>
+<!-- ==================== GITHUB ACTIVITY ==================== -->
+
+<h2 align="center">GITHUB / ACTIVITY MONITOR</h2>
 
 <p align="center">
-  <sub>Building, learning, and contributing.</sub>
+  <sub>A LIVE LOOK AT MY CONTRIBUTIONS, COLLABORATION & CODING ACTIVITY.</sub>
 </p>
 
 <br/>
 
+<!-- CONTRIBUTION ACTIVITY GRAPH -->
+
+<h3 align="center">01 / CONTRIBUTION TIMELINE</h3>
+
 <div align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Dhanushcdivakar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=236B4E&text_color=C9D1D9&icon_color=236B4E&rank_icon=github"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushcdivakar&layout=compact&hide_border=true&bg_color=0D1117&title_color=236B4E&text_color=C9D1D9"
-    alt="Most Used Languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanushcdivakar&bg_color=0D1117&color=C9D1D9&line=236B4E&point=58A6FF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
   />
 </div>
 
 <br/>
 
-<!-- SOCIAL LINKS -->
+<!-- PROFILE OVERVIEW -->
+
+<h3 align="center">02 / PROFILE OVERVIEW</h3>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/dhanush-c-d-9403772a7/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-236B4E?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Dhanushcdivakar">
-    <img
-      src="https://img.shields.io/badge/GitHub-Explore-236B4E?style=flat-square&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <br/><br/>
-
-  <sub>BUILD. BREAK. UNDERSTAND. REPEAT.</sub>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhanushcdivakar&theme=github_dark"
+    width="100%"
+    alt="GitHub Profile Contribution Overview"
+  />
 </div>
+
+<br/>
+
+<!-- GITHUB STATISTICS -->
+
+<h3 align="center">03 / DEVELOPMENT STATISTICS</h3>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dhanushcdivakar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=236B4E&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushcdivakar&layout=compact&hide_border=true&bg_color=0D1117&title_color=236B4E&text_color=C9D1D9"
+    height="180"
+    alt="Most Used Programming Languages"
+  />
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION BREAKDOWN -->
+
+<h3 align="center">04 / CONTRIBUTION BREAKDOWN</h3>
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhanushcdivakar&theme=github_dark"
+    width="49%"
+    alt="GitHub Contribution Statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhanushcdivakar&theme=github_dark&utcOffset=5.5"
+    width="49%"
+    alt="GitHub Productive Time"
+  />
+</div>
+
+<br/>
+
+<!-- ==================== END GITHUB ACTIVITY ==================== -->
+
+<div align="center">
+  <sub>CONSISTENCY OVER INTENSITY. PROGRESS OVER PERFECTION.</sub>
+</div>
+
+<br/>
