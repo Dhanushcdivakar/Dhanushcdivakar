@@ -165,21 +165,25 @@
 
 <h2 align="center">GitHub Activity</h2>
 
-<!-- CONTRIBUTION HEATMAP -->
+<br/>
+
 <div align="center">
   <img
-    src="https://ghchart.rshah.org/236B4E/Dhanushcdivakar"
-    width="100%"
-    alt="GitHub Contribution Heatmap"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Dhanushcdivakar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=236B4E&text_color=C9D1D9&icon_color=236B4E&rank_icon=github"
+    alt="Dhanush's GitHub Stats"
+  />
+  &nbsp;
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushcdivakar&layout=compact&hide_border=true&bg_color=0D1117&title_color=236B4E&text_color=C9D1D9"
+    alt="Most Used Languages"
   />
 </div>
 
 <br/>
 
-<!-- ACTIVITY OVERVIEW -->
-<!-- CONTRIBUTION BREAKDOWN -->
-<!-- CONTRIBUTION ACTIVITY TIMELINE -->
-
+<!-- ==================== END GITHUB ACTIVITY ==================== -->
 <div align="center">
   <a href="https://github.com/Dhanushcdivakar">
     <sub>VIEW FULL CONTRIBUTION ACTIVITY →</sub>
