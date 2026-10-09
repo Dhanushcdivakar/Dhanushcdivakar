@@ -86,33 +86,41 @@
 
 <table>
   <tr>
+    <!-- MentorHub -->
     <td width="50%" valign="top">
       <h3 align="center">MentorHub</h3>
+
       <p align="center">
-        <a href="https://mentorhub.devs.surf/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MentorHub Live Demo"/>
+        <a href="https://mentorhub.devs.surf/">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Project-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MentorHub Live Demo"/>
         </a>
       </p>
+
       <p>
         A mentorship platform designed to connect learners with mentors,
         encourage knowledge sharing, and support professional growth.
       </p>
+
       <p align="center">
         <strong>Explore. Connect. Grow.</strong>
       </p>
     </td>
 
+    <!-- Career Connect Hub -->
     <td width="50%" valign="top">
       <h3 align="center">Career Connect Hub</h3>
+
       <p align="center">
-        <a href="https://career-connect-fe-steel.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Career Connect Hub Live Demo"/>
+        <a href="https://career-connect-fe-steel.vercel.app/">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Project-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Career Connect Hub Live Demo"/>
         </a>
       </p>
+
       <p>
         A full-stack career platform featuring professional networking,
         mentorship, job opportunities, messaging, and resume-building tools.
       </p>
+
       <p align="center">
         <strong>Connect. Discover. Advance.</strong>
       </p>
@@ -120,24 +128,30 @@
   </tr>
 
   <tr>
+    <!-- NyayaSetu -->
     <td colspan="2" valign="top">
       <h3 align="center">NyayaSetu</h3>
+
       <p align="center">
-        <a href="https://nyayasetu-new-frontend.vercel.app/mediation-awareness" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NyayaSetu Live Demo"/>
+        <a href="https://nyayasetu-new-frontend.vercel.app/mediation-awareness">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Project-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NyayaSetu Live Demo"/>
         </a>
       </p>
+
       <p align="center">
         A legal assistance initiative focused on making legal information
         more accessible through multilingual support, AI assistance,
         and blockchain technology.
       </p>
+
       <p align="center">
         <strong>Technology for Accessible Justice.</strong>
       </p>
     </td>
   </tr>
 </table>
+
+<br/>
 
 ## GitHub Activity
 
