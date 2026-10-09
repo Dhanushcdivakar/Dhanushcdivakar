@@ -5,51 +5,42 @@
     alt="The Debugging Chronicles"
   />
 </div>
-<!-- ABOUT ME -->
 <h2 align="center">⚡ About Me</h2>
 
 <table>
   <tr>
-    <!-- LEFT: CODING GIF -->
     <td width="30%" align="center" valign="middle">
-      <img src="./assets/coding.gif" width="220" alt="Coding animation"/>
-      <br/>
-      <b>BUILD. BREAK. UNDERSTAND. REPEAT.</b>
+      <img src="./assets/coding.gif" width="200" alt="Coding animation"/>
+      <br/><br/>
+      <strong>BUILD. BREAK. UNDERSTAND. REPEAT.</strong>
       <br/>
       <sub>Turning ideas into reality, one commit at a time.</sub>
     </td>
-
-    <!-- RIGHT: ABOUT ME -->
     <td width="70%" valign="middle">
-
       <h3>👨‍💻 Full-Stack Developer</h3>
 
       <p>
         Computer Science graduate passionate about creating intuitive
-        user interfaces and building reliable backend systems.
-        I enjoy developing complete applications, from frontend
-        experiences to APIs and database integration.
+        user interfaces and building reliable backend systems. I enjoy
+        developing complete applications, from frontend experiences to
+        APIs and database integration.
       </p>
 
       <p>
-        🎨 <b>Frontend:</b> React, JavaScript, HTML, CSS
-        <br/><br/>
-        ⚙️ <b>Backend:</b> Node.js, Express, REST APIs, authentication
-        <br/><br/>
-        🗄️ <b>Databases:</b> MongoDB, MySQL
-        <br/><br/>
-        🧠 <b>Problem Solving:</b> 200+ LeetCode problems
-        <br/><br/>
-        🚀 <b>Currently Exploring:</b> Advanced React, state management,
-        backend architecture, and system design
-        <br/><br/>
-        🤝 <b>Open to:</b> Frontend, Backend, Full-Stack, and Software
+        🎨 <strong>Frontend:</strong> React, JavaScript, HTML, CSS<br/><br/>
+        ⚙️ <strong>Backend:</strong> Node.js, Express, REST APIs, authentication<br/><br/>
+        🗄️ <strong>Databases:</strong> MongoDB, MySQL<br/><br/>
+        🧠 <strong>Problem Solving:</strong> 200+ LeetCode problems<br/><br/>
+        🚀 <strong>Currently Exploring:</strong> Advanced React, state management,
+        backend architecture, and system design<br/><br/>
+        🤝 <strong>Open to:</strong> Frontend, Backend, Full-Stack, and Software
         Engineer opportunities
       </p>
-
     </td>
   </tr>
 </table>
+
+<br/>
 
 ## Technical Skills
 
