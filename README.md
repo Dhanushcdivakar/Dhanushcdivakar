@@ -9,36 +9,35 @@
 
 <h2 align="center">ABOUT ME</h2>
 
-<table>
-  <tr>
-    <td align="center" width="30%">
-      <img
-        src="https://raw.githubusercontent.com/Dhanushcdivakar/Dhanushcdivakar/main/assets/coding.gif"
-        width="180"
-        alt="Coding animation"
-      />
-    </td>
-    <td width="70%" valign="middle">
-      <h3>Full-Stack Developer | Problem Solver</h3>
-      <p>
-        I'm a Computer Science graduate passionate about building
-        practical, scalable, and user-focused applications.
-      </p>
-      <p>
-        I work across frontend and backend technologies, turning
-        ideas into functional products while continuously improving
-        my problem-solving and software engineering skills.
-      </p>
-      <p>
-        <b>Currently focused on:</b> Full-stack development,
-        backend engineering, system design, and DSA.
-      </p>
-      <p>
-        <b>Problem solving:</b> 200+ LeetCode problems.
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Dhanushcdivakar/Dhanushcdivakar/main/assets/coding.gif"
+    width="180"
+    alt="Coding animation"
+  />
+</div>
+
+<h3 align="center">Full-Stack Developer | Problem Solver</h3>
+
+<p align="center">
+  Computer Science graduate passionate about building practical,
+  scalable, and user-focused applications.
+</p>
+
+<p align="center">
+  I work across frontend and backend technologies, transforming ideas
+  into functional products while continuously improving my software
+  engineering and problem-solving skills.
+</p>
+
+<p align="center">
+  <b>Currently focused on</b><br/>
+  Full-Stack Development · Backend Engineering · System Design · DSA
+</p>
+
+<p align="center">
+  <b>Problem Solving:</b> 200+ LeetCode Problems
+</p>
 
 <br/>
 
