@@ -81,32 +81,74 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
 </p>
 
-## 🚀 Selected Projects
-
-### 🎓 MentorHub
-
-A mentorship platform designed to connect learners with mentors, encourage knowledge sharing, and support professional growth.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_MentorHub-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mentorhub.devs.surf/)
-
 ---
 
-### 💼 Career Connect Hub
+<h2 align="center">PROJECTS / SELECTED WORK</h2>
 
-A full-stack career platform featuring professional networking, mentorship, job opportunities, messaging, and resume-building tools.
+<p align="center">
+  <sub>A collection of things I've designed, developed, and brought to life.</sub>
+</p>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Career_Connect-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://career-connect-fe-steel.vercel.app/)
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><sub>01 / MENTORSHIP PLATFORM</sub></p>
+      <h3>MentorHub</h3>
+      <p>
+        A platform built to bring mentors and learners together,
+        encourage knowledge sharing, and support professional growth.
+      </p>
+      <p>
+        <a href="https://mentorhub.devs.surf/">
+          <img src="https://img.shields.io/badge/EXPLORE_PROJECT-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore MentorHub"/>
+        </a>
+      </p>
+      <br/>
+    </td>
+    <td width="50%" valign="top">
+      <p><sub>02 / CAREER & NETWORKING</sub></p>
+      <h3>Career Connect Hub</h3>
+      <p>
+        A career platform featuring professional networking,
+        mentorship, job opportunities, messaging, and resume tools.
+      </p>
+      <p>
+        <a href="https://career-connect-fe-steel.vercel.app/">
+          <img src="https://img.shields.io/badge/EXPLORE_PROJECT-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore Career Connect Hub"/>
+        </a>
+      </p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p><sub>03 / BLOCKCHAIN · AI · ACCESSIBILITY</sub></p>
+
+<h3>NyayaSetu</h3>
+
+<p>
+  A legal assistance initiative exploring how multilingual technology,
+  AI-powered assistance, and blockchain can help make legal information
+  more accessible.
+</p>
+
+<p>
+  <a href="https://nyayasetu-new-frontend.vercel.app/mediation-awareness">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore NyayaSetu"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>THOUGHTFULLY BUILT. CONTINUOUSLY IMPROVED.</sub>
+</p>
 
 ---
-
-### ⚖️ NyayaSetu
-
-A legal assistance initiative focused on making legal information more accessible through multilingual support, AI assistance, and blockchain technology.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_NyayaSetu-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nyayasetu-new-frontend.vercel.app/mediation-awareness)
-
----
-
 ## 📊 GitHub Activity
 
 ## GitHub Activity
