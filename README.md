@@ -167,21 +167,22 @@
 
 <!-- CONTRIBUTION HEATMAP -->
 <div align="center">
-  <a href="https://github.com/Dhanushcdivakar">
-    <img
-      src="https://ghchart.rshah.org/236B4E/Dhanushcdivakar"
-      width="100%"
-      alt="GitHub Contribution Heatmap"
-    />
-  </a>
+  <img
+    src="https://ghchart.rshah.org/236B4E/Dhanushcdivakar"
+    width="100%"
+    alt="GitHub Contribution Heatmap"
+  />
 </div>
 
 <br/>
 
-<!-- VIEW NATIVE GITHUB ACTIVITY -->
+<!-- ACTIVITY OVERVIEW -->
+<!-- CONTRIBUTION BREAKDOWN -->
+<!-- CONTRIBUTION ACTIVITY TIMELINE -->
+
 <div align="center">
   <a href="https://github.com/Dhanushcdivakar">
-    <sub>VIEW CONTRIBUTION ACTIVITY →</sub>
+    <sub>VIEW FULL CONTRIBUTION ACTIVITY →</sub>
   </a>
 </div>
 
