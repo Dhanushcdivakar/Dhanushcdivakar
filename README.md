@@ -81,77 +81,33 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
 </p>
 
-<!-- SELECTED PROJECTS -->
-<h2 align="center">🚀 Selected Projects</h2>
+## 🚀 Selected Projects
 
-<table>
-  <tr>
-    <!-- MentorHub -->
-    <td width="50%" valign="top">
-      <h3 align="center">MentorHub</h3>
+### 🎓 MentorHub
 
-      <p align="center">
-        <a href="https://mentorhub.devs.surf/">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Project-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MentorHub Live Demo"/>
-        </a>
-      </p>
+A mentorship platform designed to connect learners with mentors, encourage knowledge sharing, and support professional growth.
 
-      <p>
-        A mentorship platform designed to connect learners with mentors,
-        encourage knowledge sharing, and support professional growth.
-      </p>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_MentorHub-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mentorhub.devs.surf/)
 
-      <p align="center">
-        <strong>Explore. Connect. Grow.</strong>
-      </p>
-    </td>
+---
 
-    <!-- Career Connect Hub -->
-    <td width="50%" valign="top">
-      <h3 align="center">Career Connect Hub</h3>
+### 💼 Career Connect Hub
 
-      <p align="center">
-        <a href="https://career-connect-fe-steel.vercel.app/">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Project-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Career Connect Hub Live Demo"/>
-        </a>
-      </p>
+A full-stack career platform featuring professional networking, mentorship, job opportunities, messaging, and resume-building tools.
 
-      <p>
-        A full-stack career platform featuring professional networking,
-        mentorship, job opportunities, messaging, and resume-building tools.
-      </p>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Career_Connect-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://career-connect-fe-steel.vercel.app/)
 
-      <p align="center">
-        <strong>Connect. Discover. Advance.</strong>
-      </p>
-    </td>
-  </tr>
+---
 
-  <tr>
-    <!-- NyayaSetu -->
-    <td colspan="2" valign="top">
-      <h3 align="center">NyayaSetu</h3>
+### ⚖️ NyayaSetu
 
-      <p align="center">
-        <a href="https://nyayasetu-new-frontend.vercel.app/mediation-awareness">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Project-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NyayaSetu Live Demo"/>
-        </a>
-      </p>
+A legal assistance initiative focused on making legal information more accessible through multilingual support, AI assistance, and blockchain technology.
 
-      <p align="center">
-        A legal assistance initiative focused on making legal information
-        more accessible through multilingual support, AI assistance,
-        and blockchain technology.
-      </p>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_NyayaSetu-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nyayasetu-new-frontend.vercel.app/mediation-awareness)
 
-      <p align="center">
-        <strong>Technology for Accessible Justice.</strong>
-      </p>
-    </td>
-  </tr>
-</table>
+---
 
-<br/>
+## 📊 GitHub Activity
 
 ## GitHub Activity
 
