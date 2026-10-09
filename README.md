@@ -7,23 +7,27 @@
 </div>
 <h2 align="center">⚡ About Me</h2>
 
-<p align="center">
-  Software Engineer | Full-Stack Developer | Backend Enthusiast
-</p>
+<h3 align="center">
+  Full-Stack Developer | Frontend & Backend Engineering
+</h3>
 
 <p align="center">
-  A Computer Science graduate passionate about building scalable applications,
-  designing reliable backend systems, and solving real-world engineering problems.
+  A Computer Science graduate passionate about building beautiful,
+  intuitive user interfaces and robust backend systems.
+  I enjoy turning ideas into complete, functional products—from
+  crafting engaging frontend experiences to designing reliable APIs
+  and working with databases.
 </p>
 
 <br/>
 
-- 🔭 **Currently building:** Full-stack applications and backend projects.
-- 🌱 **Currently learning:** Advanced backend development, system design, and scalable architectures.
-- 💻 **Tech I work with:** Java, JavaScript, React, Node.js, Express, MongoDB, and MySQL.
-- 🧠 **Problem solving:** 200+ LeetCode problems and counting.
-- 🚀 **My goal:** Become a strong software engineer by building, breaking, debugging, and improving real systems.
-- 🤝 **Open to:** Entry-level Software Engineer, Backend, Frontend, and Full-Stack Developer opportunities.
+- 💻 **Frontend:** Building responsive, interactive user interfaces with React, JavaScript, and modern web technologies.
+- ⚙️ **Backend:** Developing REST APIs, authentication systems, and server-side applications with Node.js and Express.
+- 🗄️ **Databases:** Working with MongoDB and MySQL to design and manage application data.
+- 🧠 **Problem Solving:** Solved 200+ problems on LeetCode.
+- 🚀 **Building:** Full-stack applications that combine thoughtful UI/UX with reliable backend functionality.
+- 🌱 **Currently exploring:** Advanced React, state management, backend architecture, and system design.
+- 🤝 **Open to:** Frontend Engineer, Backend Engineer, Full-Stack Developer, and Software Engineer opportunities.
 
 ## Technical Skills
 
