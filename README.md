@@ -173,34 +173,28 @@
 
 <br/>
 
-<div align="center">
-
+<p align="center">
   <a href="https://www.linkedin.com/in/dhanush-c-d-9403772a7/">
     <img
-      src="https://img.shields.io/badge/LINKEDIN-236B4E?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-236B4E?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-
   &nbsp;
-
   <a href="https://dhanushcdivakar.github.io/Portfolio/">
     <img
-      src="https://img.shields.io/badge/PORTFOLIO-236B4E?style=for-the-badge&logo=googlechrome&logoColor=white"
+      src="https://img.shields.io/badge/Portfolio-236B4E?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Portfolio"
     />
   </a>
-
   &nbsp;
-
   <a href="https://github.com/Dhanushcdivakar">
     <img
-      src="https://img.shields.io/badge/GITHUB-236B4E?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-236B4E?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
-
-</div>
+</p>
 
 <br/>
 
