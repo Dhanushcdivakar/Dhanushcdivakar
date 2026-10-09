@@ -41,25 +41,31 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" alt="Java, JavaScript, Python, C and C++"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" alt="Java, JavaScript, TypeScript, Python, C and C++"/>
 </p>
 
-**Frontend**
+**Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS and React"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flutter" alt="HTML, CSS, React, Next.js and Flutter"/>
 </p>
 
 **Backend & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,rabbitmq" alt="Node.js, Express, MongoDB, MySQL, Redis and RabbitMQ"/>
 </p>
 
-**Tools & Platforms**
+**Cloud & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,flutter" alt="Git, GitHub, Docker, Jenkins and Flutter"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,nginx,git,github" alt="AWS, Docker, Jenkins, Nginx, Git and GitHub"/>
+</p>
+
+**AI Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 </p>
 
 ## Selected Projects
