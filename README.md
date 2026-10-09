@@ -161,6 +161,57 @@
 
 <br/>
 
+<!-- ==================== CONNECT WITH ME ==================== -->
+
+<br/>
+
+<h2 align="center">LET'S CONNECT</h2>
+
+<p align="center">
+  <sub>HAVE AN IDEA OR OPPORTUNITY? LET'S BUILD SOMETHING GREAT.</sub>
+</p>
+
+<br/>
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/dhanush-c-d-9403772a7/">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-236B4E?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  &nbsp;
+
+  <a href="https://dhanushcdivakar.github.io/Portfolio/">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-236B4E?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+
+  &nbsp;
+
+  <a href="https://github.com/Dhanushcdivakar">
+    <img
+      src="https://img.shields.io/badge/GITHUB-236B4E?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>DESIGNED WITH PURPOSE · BUILT WITH CURIOSITY</sub>
+</div>
+
+<br/>
+
+<!-- ==================== END CONNECT WITH ME ==================== -->
+
 <!-- ==================== GITHUB ACTIVITY ==================== -->
 
 <h2 align="center">GitHub Activity</h2>
