@@ -165,21 +165,23 @@
 
 <h2 align="center">GitHub Activity</h2>
 
+<!-- CONTRIBUTION HEATMAP -->
 <div align="center">
   <a href="https://github.com/Dhanushcdivakar">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanushcdivakar&bg_color=0D1117&color=C9D1D9&line=236B4E&point=236B4E&area=true&hide_border=true"
+      src="https://ghchart.rshah.org/236B4E/Dhanushcdivakar"
       width="100%"
-      alt="GitHub Activity Graph"
+      alt="GitHub Contribution Heatmap"
     />
   </a>
 </div>
 
 <br/>
 
+<!-- VIEW NATIVE GITHUB ACTIVITY -->
 <div align="center">
   <a href="https://github.com/Dhanushcdivakar">
-    View my complete GitHub Activity Overview →
+    <sub>VIEW CONTRIBUTION ACTIVITY →</sub>
   </a>
 </div>
 
