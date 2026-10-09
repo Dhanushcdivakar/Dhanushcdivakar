@@ -32,7 +32,7 @@
 
 <p align="center">
   <b>Currently focused on</b><br/>
-  Full-Stack Development · Backend Engineering · System Design · DSA
+  Full-Stack Development · Frontend Engineering · Backend Engineering · System Design · DSA
 </p>
 
 <p align="center">
