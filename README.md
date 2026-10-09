@@ -6,6 +6,7 @@
   />
 </div>
 <!-- About Me Section -->
+<!-- About Me Section -->
 <h2 align="center">⚡ About Me</h2>
 
 <table>
@@ -22,7 +23,7 @@
       <p><i>Turning ideas into reality, one commit at a time.</i></p>
     </td>
 
-    <!-- Right Side: About Me Content -->
+    <!-- Right Side: About Me Content --->
     <td width="65%" valign="middle">
 
       <h3>👨‍💻 Full-Stack Developer | Frontend & Backend Engineering</h3>
