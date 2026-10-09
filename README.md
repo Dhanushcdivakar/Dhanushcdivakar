@@ -161,11 +161,53 @@
 
 <br/>
 
-## GitHub Activity
+<!-- GITHUB ACTIVITY -->
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <sub>Every contribution tells a story.</sub>
+</p>
+
+<br/>
+
+<!-- GITHUB STATISTICS -->
+<div align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Dhanushcdivakar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=236B4E&text_color=C9D1D9&icon_color=236B4E&rank_icon=github"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushcdivakar&layout=compact&hide_border=true&bg_color=0D1117&title_color=236B4E&text_color=C9D1D9"
+    alt="Most Used Languages"
+  />
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION ACTIVITY GRAPH -->
+<h3 align="center">Contribution Activity</h3>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanushcdivakar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushcdivakar&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most-used programming languages"/>
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanushcdivakar&bg_color=0D1117&color=C9D1D9&line=236B4E&point=58A6FF&area=true&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE -->
+<h3 align="center">Contribution Snake</h3>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Dhanushcdivakar/Dhanushcdivakar/output/github-contribution-grid-snake-dark.svg"
+    alt="Animated snake eating GitHub contributions"
+    width="100%"
+  />
 </div>
 
 <br/>
@@ -178,6 +220,8 @@
   <a href="https://github.com/Dhanushcdivakar">
     GitHub
   </a>
+
   <br/><br/>
-  <sub>Build. Break. Understand. Repeat.</sub>
+
+  <sub>BUILD. BREAK. UNDERSTAND. REPEAT.</sub>
 </div>
