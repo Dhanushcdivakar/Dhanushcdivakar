@@ -83,9 +83,8 @@
 
 ---
 
----
-
-## 🚀 Selected Projects
+<!-- SELECTED PROJECTS -->
+<h2 align="center">PROJECTS / SELECTED WORK</h2>
 
 <p align="center">
   <sub>A collection of things I've designed, developed, and brought to life.</sub>
@@ -93,63 +92,74 @@
 
 <br/>
 
-### 01 · MentorHub
-<sub>MENTORSHIP PLATFORM</sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><sub>01 / MENTORSHIP PLATFORM</sub></p>
+      <h3>MentorHub</h3>
+      <p>
+        A platform connecting mentors and learners to encourage
+        knowledge sharing and professional growth.
+      </p>
+      <p>
+        <a href="https://mentorhub.devs.surf/">
+          <img src="https://img.shields.io/badge/EXPLORE_PROJECT-236B4E?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore MentorHub"/>
+        </a>
+      </p>
+    </td>
+  <!-- comment  -->
+    <td width="50%" valign="top">
+      <p><sub>02 / CAREER & NETWORKING</sub></p>
+      <h3>Career Connect Hub</h3>
+      <p>
+        A career platform featuring professional networking,
+        mentorship, job opportunities, messaging, and resume tools.
+      </p>
+      <p>
+        <a href="https://career-connect-fe-steel.vercel.app/">
+          <img src="https://img.shields.io/badge/EXPLORE_PROJECT-236B4E?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore Career Connect Hub"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 
-A platform connecting mentors and learners to encourage knowledge sharing and professional growth.
+  <tr>
+    <td width="50%" valign="top">
+      <p><sub>03 / BLOCKCHAIN · AI · ACCESSIBILITY</sub></p>
+      <h3>NyayaSetu</h3>
+      <p>
+        A legal assistance initiative exploring multilingual technology,
+        AI-powered assistance, and blockchain to improve access to legal information.
+      </p>
+      <p>
+        <a href="https://nyayasetu-new-frontend.vercel.app/mediation-awareness">
+          <img src="https://img.shields.io/badge/EXPLORE_PROJECT-236B4E?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore NyayaSetu"/>
+        </a>
+      </p>
+    </td>
+     <td width="50%" valign="top">
+      <p><sub>04 / OPEN SOURCE & EXPERIMENTS</sub></p>
+      <h3>More from Me</h3>
+      <p>
+        Explore my public repositories, coding experiments, and projects
+        across different areas of software development.
+      </p>
+      <p>
+        <a href="https://github.com/Dhanushcdivakar?tab=repositories">
+          <img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-236B4E?style=flat-square&logo=github&logoColor=white" alt="Browse Public Repositories"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <a href="https://mentorhub.devs.surf/">
-    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-236B4E?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore MentorHub"/>
-  </a>
-</p>
-
----
-
-### 02 · Career Connect Hub
-<sub>CAREER & NETWORKING</sub>
-
-A career platform featuring professional networking, mentorship, job opportunities, messaging, and resume tools.
-
-<p>
-  <a href="https://career-connect-fe-steel.vercel.app/">
-    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-236B4E?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore Career Connect Hub"/>
-  </a>
-</p>
-
----
-
-### 03 · NyayaSetu
-<sub>BLOCKCHAIN · AI · ACCESSIBILITY</sub>
-
-A legal assistance initiative exploring multilingual technology, AI-powered assistance, and blockchain to improve access to legal information.
-
-<p>
-  <a href="https://nyayasetu-new-frontend.vercel.app/mediation-awareness">
-    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-236B4E?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore NyayaSetu"/>
-  </a>
-</p>
-
----
-
-### 04 · More from Me
-<sub>OPEN SOURCE & EXPERIMENTS</sub>
-
-Explore my public repositories, coding experiments, and projects across different areas of software development.
-
-<p>
-  <a href="https://github.com/Dhanushcdivakar?tab=repositories">
-    <img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-236B4E?style=flat-square&logo=github&logoColor=white" alt="Browse Public Repositories"/>
-  </a>
-</p>
-
----
+<br/>
 
 <p align="center">
   <sub>THOUGHTFULLY BUILT. CONTINUOUSLY IMPROVED.</sub>
 </p>
----
-## 📊 GitHub Activity
+
+<br/>
 
 ## GitHub Activity
 
