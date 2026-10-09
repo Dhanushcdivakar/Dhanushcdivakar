@@ -163,20 +163,29 @@
 
 <!-- ==================== GITHUB ACTIVITY ==================== -->
 
-<h2 align="center">GITHUB / ACTIVITY</h2>
+<h2 align="center">GitHub Activity</h2>
 
-<p align="center">
-  <sub>CONTRIBUTIONS · COLLABORATION · CONSISTENCY</sub>
-</p>
+<!-- 1. CONTRIBUTION HEATMAP -->
+<div align="center">
+  <a href="https://github.com/Dhanushcdivakar">
+    <img
+      src="https://ghchart.rshah.org/236B4E/Dhanushcdivakar"
+      width="100%"
+      alt="GitHub Contribution Heatmap"
+    />
+  </a>
+</div>
 
 <br/>
 
+<!-- 2. ACTIVITY OVERVIEW -->
+<!-- 3. CONTRIBUTION BREAKDOWN -->
+<!-- 4. CONTRIBUTION ACTIVITY TIMELINE -->
+
 <div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhanushcdivakar&theme=github_dark"
-    width="100%"
-    alt="GitHub Contribution Overview"
-  />
+  <a href="https://github.com/Dhanushcdivakar">
+    View my complete GitHub Activity Overview →
+  </a>
 </div>
 
 <br/>
