@@ -163,84 +163,22 @@
 
 <!-- ==================== GITHUB ACTIVITY ==================== -->
 
-<h2 align="center">GITHUB / ACTIVITY MONITOR</h2>
+<h2 align="center">GITHUB / ACTIVITY</h2>
 
 <p align="center">
-  <sub>A LIVE LOOK AT MY CONTRIBUTIONS, COLLABORATION & CODING ACTIVITY.</sub>
+  <sub>CONTRIBUTIONS · COLLABORATION · CONSISTENCY</sub>
 </p>
 
 <br/>
-
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
-
-<h3 align="center">01 / CONTRIBUTION TIMELINE</h3>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanushcdivakar&bg_color=0D1117&color=C9D1D9&line=236B4E&point=58A6FF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-</div>
-
-<br/>
-
-<!-- PROFILE OVERVIEW -->
-
-<h3 align="center">02 / PROFILE OVERVIEW</h3>
 
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhanushcdivakar&theme=github_dark"
     width="100%"
-    alt="GitHub Profile Contribution Overview"
-  />
-</div>
-
-<br/>
-
-<!-- GITHUB STATISTICS -->
-
-<h3 align="center">03 / DEVELOPMENT STATISTICS</h3>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dhanushcdivakar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=236B4E&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushcdivakar&layout=compact&hide_border=true&bg_color=0D1117&title_color=236B4E&text_color=C9D1D9"
-    height="180"
-    alt="Most Used Programming Languages"
-  />
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION BREAKDOWN -->
-
-<h3 align="center">04 / CONTRIBUTION BREAKDOWN</h3>
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhanushcdivakar&theme=github_dark"
-    width="49%"
-    alt="GitHub Contribution Statistics"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhanushcdivakar&theme=github_dark&utcOffset=5.5"
-    width="49%"
-    alt="GitHub Productive Time"
+    alt="GitHub Contribution Overview"
   />
 </div>
 
 <br/>
 
 <!-- ==================== END GITHUB ACTIVITY ==================== -->
-
-<div align="center">
-  <sub>CONSISTENCY OVER INTENSITY. PROGRESS OVER PERFECTION.</sub>
-</div>
-
-<br/>
